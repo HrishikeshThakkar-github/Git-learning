@@ -1,0 +1,12 @@
+created a branch and fixed bugs
+
+more fixes done
+
+one more bug detected and fixed
+fourth bug fixed
+
+<<<<<<< HEAD
+
+2025 is here
+=======
+>>>>>>> kabir
