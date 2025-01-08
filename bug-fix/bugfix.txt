@@ -1,1 +1,4 @@
 solving the bug 
+
+
+the report of the bug is submitted
